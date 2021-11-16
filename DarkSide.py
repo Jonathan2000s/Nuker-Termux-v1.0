@@ -11,11 +11,11 @@ intents.members = True
 
 ###########SETUP###############
 prefix = "!"                                                       
-token = "ใส่Tokenบอทคุณ"                                          
-spam_messages = "@everynoe"         
+token = "ODU3ODk3MzE3MDIxMjUzNjUy.YNWRIw.Y7RwMGGRYNeVLt5Np3j4hNzfm8I"                                          
+spam_messages = "YOU IS NOOB!!!"         
 massdm = "ISUS"                    
 rolenames = "NAHEE"                                                                  
-channels = "ใส่ชื่อห้องที่จะสแปม"
+channels = "HAHAHA BOMB!!!"  
 ###############################
 
 def Clear():
