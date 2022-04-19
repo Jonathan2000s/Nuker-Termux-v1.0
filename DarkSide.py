@@ -11,7 +11,7 @@ intents.members = True
 
 ###########SETUP###############
 prefix = "!"                                                       
-token = "ใส่Tokenบอท"                                          
+token = "OTYzMTc5MjQ4NjE5NzczOTUy.YlSUkw.dH23vuoj_CWKYFIlfPW7Jk8QZRI"                                          
 spam_messages = "@everynoe"         
 massdm = "Nuke"                    
 rolenames = "Nuker"                                                                  
